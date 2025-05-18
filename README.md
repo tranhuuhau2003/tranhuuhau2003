@@ -56,11 +56,10 @@
 
 ---
 
-### 💡 Dự án nổi bật
+### 💡 Featured Project
 
-- [**AI-COVID19-Detection**](https://github.com/tranhuuhau2003/AI-COVID19-Detection): Ứng dụng AI phát hiện COVID-19 từ hình ảnh X-quang phổi bằng TensorFlow và CNN.
 - [**NER-PhoBERT**](https://github.com/tranhuuhau2003/NER-PhoBERT): Dự án nhận dạng thực thể tiếng Việt sử dụng mô hình PhoBERT kết hợp thư viện Hugging Face.
-- [**Data-Visualization-Toolkit**](https://github.com/tranhuuhau2003/Data-Visualization-Toolkit): Bộ công cụ trực quan hóa dữ liệu bằng Matplotlib và Seaborn.
+- [**Student_Attendance**(https://github.com/tranhuuhau2003/Student_attendance.git): Dự án điểm danh sinh viên bằng nhận diện khuôn mặt sử dụng thư viên OpenCV.
 
 ---
 
@@ -72,4 +71,4 @@
 
 ---
 
-> 🌟 Always learning. Always improving. Let's build something amazing!
+> 🌟 Always learning. Always improving.
