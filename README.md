@@ -1,10 +1,10 @@
-<h1 align="center">Hi there, I'm Hữu Hậu 👋</h1>
+<h1 align="center">Hi there, I'm Tran Huu Hau 👋</h1>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=tranhuuhau2003&label=Profile%20views&color=0e75b6&style=flat" alt="tranhuuhau2003" />
 </p>
 
-### 🎓 I'm 21 years old and passionate about AI, Machine Learning and Data Science
+### 🎓 I'm 21 years old and passionate about AI, Machine Learning
 
 ---
 
@@ -23,16 +23,36 @@
 ### 🛠 Skills
 
 #### 🫠 Frameworks & Libraries:
-`TensorFlow`, `PyTorch`, `Scikit-learn`, `Pandas`, `Matplotlib`, `OpenCV`, `HuggingFace`
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white) 
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white) 
+![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white) 
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white) 
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=matplotlib&logoColor=white) 
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white) 
+![HuggingFace](https://img.shields.io/badge/HuggingFace-F99000?style=for-the-badge&logo=huggingface&logoColor=white)
 
 #### 💻 Programming Languages:
-`Python`, `SQL`, `C++`, `Java`, `PHP`, `HTML`, `CSS`, `JavaScript`
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) 
+![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=mysql&logoColor=white) 
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white) 
+![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white) 
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white) 
+![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white) 
+![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white) 
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
 #### 📂 Databases:
-`SQL Server`, `SQLite`, `PostgreSQL`, `MongoDB`
+![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white) 
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white) 
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-31648C?style=for-the-badge&logo=postgresql&logoColor=white) 
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 
 #### 🛠 Tools:
-`Git/GitHub`, `Jupyter Notebook`, `Google Colab`
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) 
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white) 
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white) 
+![Google Colab](https://img.shields.io/badge/Google_Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white)
+
 
 ---
 
