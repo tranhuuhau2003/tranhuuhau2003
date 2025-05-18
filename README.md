@@ -4,7 +4,7 @@
   <img src="https://komarev.com/ghpvc/?username=tranhuuhau2003&label=Profile%20views&color=0e75b6&style=flat" alt="tranhuuhau2003" />
 </p>
 
-### 🎓 I'm 21 years old and passionate about AI, Machine Learning
+### 🎓 Always learning. Always improving.
 
 ---
 
@@ -59,16 +59,17 @@
 ### 💡 Featured Project
 
 - [**NER-PhoBERT**](https://github.com/tranhuuhau2003/NER-PhoBERT): Dự án nhận dạng thực thể tiếng Việt sử dụng mô hình PhoBERT kết hợp thư viện Hugging Face.
-- [**Student_Attendance**(https://github.com/tranhuuhau2003/Student_attendance.git): Dự án điểm danh sinh viên bằng nhận diện khuôn mặt sử dụng thư viên OpenCV.
+- [**Student_Attendance**](https://github.com/tranhuuhau2003/Student_attendance.git): Dự án điểm danh sinh viên bằng nhận diện khuôn mặt sử dụng thư viên OpenCV.
 
 ---
 
-### 📢 Connect with me:
+### 📢 Contact for work:
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tr%E1%BA%A7n-h%E1%BB%ADu-h%E1%BA%ADu-677420233)
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/huuhau.tran.75033/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tranhuuhau2003@gmail.com)
 
+
 ---
 
-> 🌟 Always learning. Always improving.
+
