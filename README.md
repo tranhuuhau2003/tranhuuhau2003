@@ -4,8 +4,6 @@
   <img src="https://komarev.com/ghpvc/?username=tranhuuhau2003&label=Profile%20views&color=0e75b6&style=flat" alt="tranhuuhau2003" />
 </p>
 
-### 🎓 Always learning. Always improving.
-
 ---
 
 ### 📊 GitHub Stats
